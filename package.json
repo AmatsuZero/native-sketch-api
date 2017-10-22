@@ -1,0 +1,28 @@
+{
+  "name": "native-sketch-api",
+  "version": "1.0.0",
+  "description": "bridge to call Sketch API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmatsuZero/native-sketch-api.git"
+  },
+  "keywords": [
+    "sketch"
+  ],
+  "author": "Daubert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmatsuZero/native-sketch-api/issues"
+  },
+  "homepage": "https://github.com/AmatsuZero/native-sketch-api#readme",
+  "devDependencies": {
+    "sketch": "^0.2.0",
+    "sketch-api": "^1.0.0",
+    "sketch-constants": "^1.1.0",
+    "sketchapp-json-plugin": "^0.1.2"
+  }
+}
